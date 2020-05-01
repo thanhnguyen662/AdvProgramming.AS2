@@ -1,0 +1,13 @@
+C:\Users\Thanh\source\repos\Meow_Meow_Cattery\Meow_Meow_Cattery\bin\Debug\netcoreapp3.1\Meow_Meow_Cattery.exe
+C:\Users\Thanh\source\repos\Meow_Meow_Cattery\Meow_Meow_Cattery\bin\Debug\netcoreapp3.1\Meow_Meow_Cattery.deps.json
+C:\Users\Thanh\source\repos\Meow_Meow_Cattery\Meow_Meow_Cattery\bin\Debug\netcoreapp3.1\Meow_Meow_Cattery.runtimeconfig.json
+C:\Users\Thanh\source\repos\Meow_Meow_Cattery\Meow_Meow_Cattery\bin\Debug\netcoreapp3.1\Meow_Meow_Cattery.runtimeconfig.dev.json
+C:\Users\Thanh\source\repos\Meow_Meow_Cattery\Meow_Meow_Cattery\bin\Debug\netcoreapp3.1\Meow_Meow_Cattery.dll
+C:\Users\Thanh\source\repos\Meow_Meow_Cattery\Meow_Meow_Cattery\bin\Debug\netcoreapp3.1\Meow_Meow_Cattery.pdb
+C:\Users\Thanh\source\repos\Meow_Meow_Cattery\Meow_Meow_Cattery\obj\Debug\netcoreapp3.1\Meow_Meow_Cattery.csprojAssemblyReference.cache
+C:\Users\Thanh\source\repos\Meow_Meow_Cattery\Meow_Meow_Cattery\obj\Debug\netcoreapp3.1\Meow_Meow_Cattery.csproj.CoreCompileInputs.cache
+C:\Users\Thanh\source\repos\Meow_Meow_Cattery\Meow_Meow_Cattery\obj\Debug\netcoreapp3.1\Meow_Meow_Cattery.AssemblyInfoInputs.cache
+C:\Users\Thanh\source\repos\Meow_Meow_Cattery\Meow_Meow_Cattery\obj\Debug\netcoreapp3.1\Meow_Meow_Cattery.AssemblyInfo.cs
+C:\Users\Thanh\source\repos\Meow_Meow_Cattery\Meow_Meow_Cattery\obj\Debug\netcoreapp3.1\Meow_Meow_Cattery.dll
+C:\Users\Thanh\source\repos\Meow_Meow_Cattery\Meow_Meow_Cattery\obj\Debug\netcoreapp3.1\Meow_Meow_Cattery.pdb
+C:\Users\Thanh\source\repos\Meow_Meow_Cattery\Meow_Meow_Cattery\obj\Debug\netcoreapp3.1\Meow_Meow_Cattery.genruntimeconfig.cache
