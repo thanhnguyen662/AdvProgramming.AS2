@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meow_Meow_Cattery", "Meow_Meow_Cattery\Meow_Meow_Cattery.csproj", "{2320F486-35B4-4A81-99BD-DF11B0964D68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Meow_Meow_Cattery", "Meow_Meow_Cattery\Meow_Meow_Cattery.csproj", "{2320F486-35B4-4A81-99BD-DF11B0964D68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{A124CDA0-366D-4D2C-84B6-605132315473}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2320F486-35B4-4A81-99BD-DF11B0964D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2320F486-35B4-4A81-99BD-DF11B0964D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2320F486-35B4-4A81-99BD-DF11B0964D68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A124CDA0-366D-4D2C-84B6-605132315473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A124CDA0-366D-4D2C-84B6-605132315473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A124CDA0-366D-4D2C-84B6-605132315473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A124CDA0-366D-4D2C-84B6-605132315473}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
