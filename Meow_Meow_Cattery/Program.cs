@@ -41,6 +41,7 @@ namespace Meow_Meow_Cattery
                     {
                         Console.WriteLine("You can search in keywords: Sphynx, Toyger, Somali, Burmese");
                         Console.WriteLine("===========================================================");
+                        Console.Write("Search: ");
                         string InputSearch = Console.ReadLine();
                         switch (InputSearch)
                         {
